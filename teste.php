@@ -1,4 +1,5 @@
 <?php 
 	phpinfo();
-	echo "teste";
+	echo "ola teste";
+	
 ?>
